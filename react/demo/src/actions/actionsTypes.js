@@ -1,0 +1,2 @@
+export const ADD_COMPUTER = 'ADD_COMPUTER';
+export const DELETE_COMPUTER = 'DELETE_COMPUTER';
