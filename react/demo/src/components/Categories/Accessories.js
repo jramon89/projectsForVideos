@@ -1,15 +1,15 @@
 import React, { Component, PropTypes } from 'react';
 
-class Computers extends Component {
+class Accessories extends Component {
 	static propTypes = {
 
 	}
 
 	render() {
 		return (
-			<h1>List of computers</h1>
+			<h1>List of Accessories</h1>
 		);
 	}
 
 }
-export default Computers;
+export default Accessories;
